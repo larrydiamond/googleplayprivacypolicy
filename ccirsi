@@ -1,0 +1,3 @@
+This app will use the ticker symbol you type in to contact Yahoo Finance, who is our data vendor, to pull historical data in order to perform the technical analysis.
+
+No information about the ticker symbols you enter is retained by us, nor is any information collected about your or your phone / tablet.
